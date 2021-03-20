@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+a {
+    text-decoration: none;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../fonts/Poppins-Light.ttf');
+}
+body {
+    background-color:#004A99;
+    color: #fff;
+    font-family: 'poppins';
+}
+.con-head {
+    font-size: 30px;
+    text-align: center;
+    margin: 3% 0 2% 0;
+}
+.con-para {
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: 3%;
+}
+.box {
+    padding: 15px;
+    background-color: rgba(0, 0, 119, 0.2);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.box:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 119, 0.7);
+    transition: linear 2s;
+    -webkit-transition: linear 2s;
+    -moz-transition: linear 2s;
+    -ms-transition: linear 2s;
+    -o-transition: linear 2s;
+}
+.card-body {
+    text-align: center;
+}
+.box span {
+    font-size: 30px; 
+    margin-top: 10px;
+}
+.title {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.text {
+    font-size: 13px;
+}
+.button {
+    outline: none;
+    background-color: rgba(0, 0, 179, 0.2);
+}
