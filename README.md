@@ -1,4 +1,4 @@
-# Fully Responsive Page Page
+# Fully Responsive Page 
 This Web Page is fully Responsive page using bootstrap framework.
 
 ## Visit Site: :star:
