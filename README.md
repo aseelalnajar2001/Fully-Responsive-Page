@@ -1,10 +1,10 @@
 # Fully Reponsive Page
-This Web Page is fully Responsive page using bootstrap framework
+This Web Page is fully Responsive page using bootstrap framework.
 
-## Visit Site:
- https://aseelalnajar2001.github.io/Simple-page-with-bootstrap-framework/.
+## Visit Site: :star:
+ **[Click here](https://aseelalnajar2001.github.io/Simple-page-with-bootstrap-framework/)**.
 
-## Skills:
+## Skills: :star:
 * HTML/HTML5
 * CSS/CSS3
 * Media Query
